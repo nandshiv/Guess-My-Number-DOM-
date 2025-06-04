@@ -13,7 +13,7 @@ A simple and interactive number guessing game built using **HTML**, **CSS**, and
 - You can play again using the "Again" button.
 
 ## 📸 Screenshots
-
+  ![Game screenshot](images/image.png)
 ## 🚀 Features
 - Random number generation
 - Score tracking
